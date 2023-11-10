@@ -1,3 +1,4 @@
 # stampe-with-cv-and-ros2-raspi-pkg
 
-For the details of this repo, refer to the main repo
+For the details of this repository, refer to the main repository
+https://github.com/kenzhiiskandar/stampe-with-cv-and-ros2-pc-pkg.git
